@@ -1,0 +1,9 @@
+#setting div {
+    display: flex;
+    gap: 20px;
+}
+
+svg {
+    border: 2px solid black;
+}
+
